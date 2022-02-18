@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8xL3aChJdiimkIREvj5uawcHYInQm2iM4a6is231bpDnzPP/1kE1VUsD28CR2WnbMYa5BUqjzWhzEGHVznTKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henry\\source\\repos\\Unillanos.ArquitecturaMS\\Unillanos.ArquitecturaMS.Usuarios\\Unillanos.ArquitecturaMS.Usuarios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henry\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

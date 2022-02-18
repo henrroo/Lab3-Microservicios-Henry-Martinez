@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henry\\source\\repos\\Unillanos.ArquitecturaMS\\Unillanos.ArquitecturaMS.Usuarios\\Unillanos.ArquitecturaMS.Usuarios.csproj",
+      "projectUniqueName": "C:\\Users\\henry\\Documents\\GitHub\\Lab3-Microservicios-Henry-Martinez\\Unillanos.ArquitecturaMS\\Unillanos.ArquitecturaMS.Usuarios\\Unillanos.ArquitecturaMS.Usuarios.csproj",
       "projectName": "Unillanos.ArquitecturaMS.Usuarios",
-      "projectPath": "C:\\Users\\henry\\source\\repos\\Unillanos.ArquitecturaMS\\Unillanos.ArquitecturaMS.Usuarios\\Unillanos.ArquitecturaMS.Usuarios.csproj",
+      "projectPath": "C:\\Users\\henry\\Documents\\GitHub\\Lab3-Microservicios-Henry-Martinez\\Unillanos.ArquitecturaMS\\Unillanos.ArquitecturaMS.Usuarios\\Unillanos.ArquitecturaMS.Usuarios.csproj",
       "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henry\\source\\repos\\Unillanos.ArquitecturaMS\\Unillanos.ArquitecturaMS.Usuarios\\obj\\",
+      "outputPath": "C:\\Users\\henry\\Documents\\GitHub\\Lab3-Microservicios-Henry-Martinez\\Unillanos.ArquitecturaMS\\Unillanos.ArquitecturaMS.Usuarios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
